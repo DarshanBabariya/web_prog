@@ -1,0 +1,14 @@
+* {
+    box-sizing: border-box;
+    background-color: #f8f8f8;
+}
+
+.col1 {
+    float: left;
+  width: 50%;
+  padding: 20px;}
+.col2{
+    float: left;
+    padding: 20px;
+    width: 50%;
+}
